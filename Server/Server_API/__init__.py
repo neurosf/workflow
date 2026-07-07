@@ -1,0 +1,1 @@
+default_app_config = 'Server_API.apps.ServerApiConfig'
